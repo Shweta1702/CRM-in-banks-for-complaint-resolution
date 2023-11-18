@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>CRM</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <style>
+    /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+    .row.content {height: 1000px}
+    
+    /* Set gray background color and 100% height */
+    .sidenav {
+      background-color: #0FFF50;
+      height: 100%;
+    }
+        
+    /* On small screens, set height to 'auto' for the grid */
+    @media screen and (max-width: 767px) {
+      .row.content {height: auto;} 
+    }
+  
+</head>
+
+<nav class="navbar navbar-inverse visible-xs">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="#">Logo</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Dashboard</a></li>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Complaints and Queries</a></li>
+        <li><a href="#">Blogs</a></li>
+	<li><a href ="#">About Us</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<div class="topnav">
+  <a class="active" href="#home">Home</a>
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+  <a href="#about">About</a>
+<a href="login1.html">Login</a>
+<ahref="#register">Register</a>
+</div>
+<style>
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+</style>
+<div class="container-fluid">
+  <div class="row content">
+    <div class="col-sm-3 sidenav hidden-xs">
+      <h2> admin dashboard logged in</h2>
+      <ul class="nav nav-pills nav-stacked">
+        <li class="active"><a href="#section1">Dashboard</a></li>
+	<li><a href="login1.html">Login</a><li>
+	<li><a href="register.html">Register</a><li>
+        <li><a href="charts.html">Home</a></li>
+	<li><a href ="aboutus.html">Analytics</a></li>
+	<li><a href="tasksandprojects.html">Projects and Tasks</a></li>
+	
+	<li><a href="crud.html">Get Services</a></li>
+<li><a href="clientside.html">Customer information and Blogs</a></li>
+        <li><a href="complaint.html">Customer complaints and queries</a></li>
+        <li><a href="status.html">Status and Analytics of Complaint resolution</a></li>
+	<li><a href="faqs1.html">FAQs</a></li>
+	<li><a href="comp.html">Complaint reports</a></li>
+	<li><a href="user.html">Users</a>
+	
+	
+	
+      </ul><br>
+    </div>
+    <br>
+  
+    <div class="col-sm-9">
+      <div class="well">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+<style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+</style>
+</head>
+<body>
+</style>
+</head>
+<body>
+
+
+
+ 
+      <div class="row">
+        <div class="col-sm-3">
+          <div class="well">
+            <h4>Users</h4>
+            <p>Angel Stone</p> 
+
+	
+          </div>
+        </div>
+        <div class="col-sm-3">
+          <div class="well">
+            <h4>Complaints</h4>
+            <p>10000</p> 
+          </div>
+        </div>
+        <div class="col-sm-3">
+          <div class="well">
+            <h4>Sessions</h4>
+            <p>10 Million</p> 
+          </div>
+        </div>
+        <div class="col-sm-3">
+          <div class="well">
+            <h4>Bounce</h4>
+            <p>30%</p> 
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-sm-18">
+          <div class="well">
+	<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+<body>
+<center><div id="myChart" style="width:100%; max-width:600px; height:600px;">
+</div>
+
+<script>
+google.charts.load('current', {'packages':['corechart']});
+google.charts.setOnLoadCallback(drawChart);
+
+function drawChart() {
+var data = google.visualization.arrayToDataTable([
+  ['Source', 'Rate'],
+  ['Net Interest income',65],
+  ['Service Charges',10],
+  ['Capital Markets/asset management',10],
+  ['Loan fees and other',10],
+  ['Mortgages',5]
+]);
+
+
+var options = {
+  title:'Revenue of a Bank in a day'};
+
+var chart = new google.visualization.PieChart(document.getElementById('myChart'));
+  chart.draw(data, options);
+}
+</script>
+</center>
+
+
+
+    
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Float four columns side by side */
+.column {
+  float: left;
+  width: 25%;
+  padding: 0 5px;
+}
+
+.row {margin: 0 -5px;}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive columns */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 10px;
+  }
+}
+
+/* Style the counter cards */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  text-align: center;
+  background-color: #0FFF50;
+  color: white;
+}
+
+.fa {font-size:50px;}
+</style>
+</head>
+<body>
+
+
+<br>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <p><i class="fa fa-user"></i></p>
+      <h3>11+</h3>
+      <p>Partners</p>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <p><i class="fa fa-check"></i></p>
+      <h3>55+</h3>
+      <p>Projects</p>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <p><i class="fa fa-smile-o"></i></p>
+      <h3>100+</h3>
+      <p>Happy Clients</p>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <p><i class="fa fa-coffee"></i></p>
+      <h3>100+</h3>
+      <p>Meetings</p>
+    </div>
+  </div>
+</div>
+
+</body>
+
+
+</html>
