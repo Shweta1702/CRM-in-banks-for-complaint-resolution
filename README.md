@@ -1,5 +1,6 @@
 Customer Relationship Management for Client feedback and complaint resolution.
 Problem Statement
+
 75% of the  customers were dissatisfied due to the queue time they experienced  in banks whilst being served at the counter. Resources and time were consumer. This resulted in ineffective management of resources ,hence, no proper client support (Danie, 2022).
 Banks required an automation in customer data management for the reduction of inefficiency in the process of service provision to the customers. The bank received queries and conflicts which required a resolution  in the process of service utility. Conflict resolution consumed plenty of  time because the bank used traditional methods of customer communication and analytics (Garinga, 2021). 
 An availability of important customer information assisted with the quickest means of information recovery for service provision by the bank.  Customers were unhappy if the  bank had not responded  to their inquiries with the appropriate methods of communication and support. Customers were upset with the services the bank offered and the wait time they experienced whilst they received  the required  services. (Lynch, 2021).
@@ -12,16 +13,20 @@ Business analytics and transactions expressed the quality of the services the ba
 
  Use Case Diagram
 ![image](https://github.com/Shweta1702/CRM-in-banks-for-complaint-resolution/assets/98207035/9a7b6136-1ec1-4f0a-99fb-c3bf655ac00b)
+
 Class Diagram
 ![image](https://github.com/Shweta1702/CRM-in-banks-for-complaint-resolution/assets/98207035/85c51a00-a1d6-4393-b56f-125e6ea2c6b5)
+
 System Sequence Diagram
 ![image](https://github.com/Shweta1702/CRM-in-banks-for-complaint-resolution/assets/98207035/ebc4d58f-a06e-4737-a64f-c57829bfec6e)
+
  Database Schema
  ![image](https://github.com/Shweta1702/CRM-in-banks-for-complaint-resolution/assets/98207035/3235ef8e-d7f0-4504-930b-4af3f24615d2)
 
 
 Aim
 The aim of  the bank had been  the development  a web- based customer relationship management information system to resolve queries for client support. The bank adequately monitored the services effectively with accurate information about the number of customers who visited the bank and the services required. The bank officials recorded customer complaints and provided an effective strategic solution  if there had been any complaints/queries in the process of utility of service. The system generated reports of the customer requirements, complaints and solutions. Moreover, the system  allowed the bank to analyze  their queries and  concerns of the client for the provision of services to the clients 
+
 Specific Objectives
 i.To investigate the challenges customers encountered  whilst they accessed customer support.
 ii.To review existing systems which already exist.
@@ -64,7 +69,6 @@ Scope/Limitations
  Majority of banks preferred the usage of web customer relationship management systems for client support in the provision of customer service. A customer had complaints and queries the feedback was recorded by the system .The customer received their services with their queries  answered. This improved the customer retention levels in the banks and the level of efficiency in the tasks performed by the bank. The utility of the web ensured every individual customer who possessed a bank account, provided customer feedback for services. They received instant solutions for the problems they encountered. These included online accessibility of the bank transactions status and received instant notifications through the system. Thus, the customer received the status of the bank services online and was also able to attain other services from the CRM system This was performed when the customer sent a quote to the bank. The quote was received by the bank. The queries of the customer were answered and the bank performed analytics to review their performance. Customer and client data had been collected efficiently. (Haerting, 2022).
 The limitations included a lack of adequate knowledge of utility of the web CRM system by the new bank personnel.The new bank personnel required a documentation and sessions to improve the utility of CRM systems .If individuals were trained to utilize the system, the clients and customers would receive their services without delay.(Eid, 2022).
 
-: Conclusions
 Conclusions.
 The system was developed for the bank to provide solutions to clients and customers .The bank performed analytics and formulated reports for future profit predictions .This assisted the bank in formulation of trends related to the likes and dislikes of customers. Customers also specified their needs to the bank online with all their transaction information provided without physically being available at the counter which reduced bias and redundancy. Employees of the bank were quick enough when they served their customers.
 Recommendations and Conclusions.
