@@ -6,17 +6,20 @@ An organizational crisis arose in banks as a result of the recruitment of person
 Banks maintained adequate client interactions for the identification of customer complaints and analysis of customer data for the resolution of customer conflicts (Ashby, 2022) .The reduction of queue time  the client experienced  required a means for  the statement with the  resolution of the query or complaint .Hence, the customer relationship management for client support systems was mandatory ,as, the system assisted with performance of an analytics of the complaints resolved and allowed the bank to know the necessities of the client. (Peter Jones, 2022). The implementation of the system ensured consistency of performance of the bank in relation to standards of customer satisfaction (Haerting, 2022). The bank required a means of customer complaints, queries, requests and services resolved for the provision of client support. Thus, required a specialization in knowledge in their respective fields of expertise in client support and complaint resolution with aids of technology (Siriluck Rotchanakitumnuai, 2022)
 CRM technology had been effective in the improvement of  the consumer retention strategy in the bank. The improved provision of client support by complaint resolution and staff interaction improved customer relations with the bank. This resulted  from the implementation of a customer relationship management system which  leveraged client support with utility of  web technology. Better customer service resulted in greater customer satisfaction and bettered preservation of client data. crucial success criteria for online transactions were identified by the client requirements. the web-based CRM system ensured the bank understood the requirements of the client. This improved the service provided by the bank to the customer. Customers were greatly satisfied with the immediate response to their queries and complaints being resolved.
 Business analytics and transactions expressed the quality of the services the bank offered. Resolution of complaints and queries enhanced  client support with the aids of technology .The utility of manual means of query and conflict resolution  hindered the rate of  service provision (Eid, 2022).
+Conceptual Framework:
+![image](https://github.com/Shweta1702/CRM-in-banks-for-complaint-resolution/assets/98207035/87987cdf-cbff-4a2a-b447-85d091c4dd70)
 
- Use Case Diagram
+
+ Use Case Diagram:
 ![image](https://github.com/Shweta1702/CRM-in-banks-for-complaint-resolution/assets/98207035/9a7b6136-1ec1-4f0a-99fb-c3bf655ac00b)
 
-Class Diagram
+Class Diagram:
 ![image](https://github.com/Shweta1702/CRM-in-banks-for-complaint-resolution/assets/98207035/85c51a00-a1d6-4393-b56f-125e6ea2c6b5)
 
-System Sequence Diagram
+System Sequence Diagram:
 ![image](https://github.com/Shweta1702/CRM-in-banks-for-complaint-resolution/assets/98207035/ebc4d58f-a06e-4737-a64f-c57829bfec6e)
 
- Database Schema
+ Database Schema:
  ![image](https://github.com/Shweta1702/CRM-in-banks-for-complaint-resolution/assets/98207035/3235ef8e-d7f0-4504-930b-4af3f24615d2)
 
 
