@@ -1,4 +1,4 @@
-Customer Relationship Management for Client feedback and complaint resolution.
+Web- based Customer Relationship Management System for Client Support in Banks.
 
 Background
 The integration of bank management principles with the most recent customer intelligence requirements for optimal resource management incorporated new technological advances and trends for the  satisfaction of customer needs (Katz, 2022).With the appropriate management of the services the bank offered,  specialists assisted in the ascertainment of  services in specific consumer segments (MIT, 2022). 
