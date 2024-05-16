@@ -7,6 +7,36 @@ Banks maintained adequate client interactions for the identification of customer
 CRM technology had been effective in the improvement of  the consumer retention strategy in the bank. The improved provision of client support by complaint resolution and staff interaction improved customer relations with the bank. This resulted  from the implementation of a customer relationship management system which  leveraged client support with utility of  web technology. Better customer service resulted in greater customer satisfaction and bettered preservation of client data. crucial success criteria for online transactions were identified by the client requirements. the web-based CRM system ensured the bank understood the requirements of the client. This improved the service provided by the bank to the customer. Customers were greatly satisfied with the immediate response to their queries and complaints being resolved.
 Business analytics and transactions expressed the quality of the services the bank offered. Resolution of complaints and queries enhanced  client support with the aids of technology .The utility of manual means of query and conflict resolution  hindered the rate of  service provision (Eid, 2022).
 
+Functional Requirements
+Functional Requirements had been the  declaration of the services the system offered, how the system  responded to inputs, and the  system’s functionality tasks based on the objectives in the specific circumstances (Jameleddine Hassine, 2022).
+1Manage and Collect client information.
+The banks’ Customer Relationship Management system  for client support gathered, arranged, stored, and managed client information for the determination of the services customers required .
+2Interactive Dashboards
+CRM systems in banks for client supported interactive dashboards which privileged the customers in the provision of  service modules within  the system to attain notification and status of their queries, complaints and services.
+3Automated Customer Support
+Customers attained automated customer support which the bank provided to monitor the progress of loans approved, notifications from the bank and analyze the services the bank provided.
+4Notification of Tasks and Services
+The Customer Relationship Management system provided customer support system for banks with the provision of alerts and notifications about client services with email.
+5Status Management
+The bank notified the customer of the status of the problem, The customers viewed the progress of the transaction had been applied.
+6Reports for the customer issue raised
+ The CRM system generated client complaints reports with charts and graphs. The bank then resolved the compliance issues the client had. 
+7Customer express complaints
+Customers were able to express complaints and provided comments based on their user experience through the banks comments and email system.
+
+2Non-Functional Requirements
+Non-functional Requirements outlined the characteristics and limitations of the services or functions the system provided, such as time restrictions, development process limitations, standards, dependability, reaction times, storage needs, input/output device capability limitations (Leite, 2022).
+1.Reliability 
+No customer or employee information had been compromised. Databases stored, updated, and deleted important employee and customer data in different tables.
+2.Robustness
+The system updated all transactions and information about the bank transactions.
+3.Authentication and Security
+The Customer Relationship Management systems have HTTP encryption and required user credentials accessed  the bank information. The system had been confidential.
+4.Portability
+The web CRM client support system for banks had been portable and accessible with compatibility with any system software (interoperability) in any electronic devices (laptops, computers, mobile phones)  .
+5.Accessibility
+The system had been accessible to only customers who were interested with the profit status of the bank with accounts online.
+
 Conceptual Framework:
 ![image](https://github.com/Shweta1702/CRM-in-banks-for-complaint-resolution/assets/98207035/87987cdf-cbff-4a2a-b447-85d091c4dd70)
 
@@ -22,6 +52,9 @@ System Sequence Diagram:
 
  Database Schema:
  ![image](https://github.com/Shweta1702/CRM-in-banks-for-complaint-resolution/assets/98207035/3235ef8e-d7f0-4504-930b-4af3f24615d2)
+
+Methodology:
+![image](https://github.com/Shweta1702/CRM-in-banks-for-complaint-resolution/assets/98207035/2a256574-2569-487a-a85e-aa420d8dfbf2)
 
 
 Aim:
