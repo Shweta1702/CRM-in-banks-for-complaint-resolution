@@ -32,6 +32,7 @@ i.To investigate the challenges customers encountered  whilst they accessed cust
 ii.To review existing systems which already exist.
 iii.To design and develop a Web- based Customer Relationship Management System for banks for Client Support.
 iv.To test the functions of the customer relationship management system client support systems of the bank which resolved client problems and provided services over the web.
+
  Test ID	Condition	Inspection 
 Check	Test    data	Priority
 1	Was the user  logged in to the system?	The dashboard illustrated admin dashboard.	Username:admin
@@ -41,6 +42,7 @@ Sessions:	high
 3	Whether the system generated complaint reports?	The navigation pane illustrated reports and status	Complaints and questions with status of complaints	high
 4	Whether the customers attained services they required?	The services were attained from the get service pane	Click the get service pane to attain service	high
 5	Whether the customers complained and asked questions?	The comment and chat email section addressed the issues	Enter comments and complaints in chat with us.	high
+
 Test ID	Expected 
 Result	Actual 
 Result	Status	Remark
